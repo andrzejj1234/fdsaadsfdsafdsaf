@@ -3,7 +3,7 @@ body
 /*	background-image: url("img/tlo.png");*/
 	background-color: black;
 	font-family: 'Roboto', sans-serif;
-	width: 97%;
+
 	margin: 0 auto;
 }
 
@@ -130,5 +130,6 @@ body
 }
 .abc
 {
+	width: 97%;
 	background-color: white;
 }

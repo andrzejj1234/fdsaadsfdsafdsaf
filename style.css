@@ -2,7 +2,7 @@ body
 {
 	background-color: black;
 	font-family: 'Roboto', sans-serif;
-
+	width: 100%;
 	margin: 0 auto;
 }
 
@@ -103,7 +103,6 @@ body
 	text-align: center;
 	width: 100%;
 	min-height: 90px;
-	background-color: lightgray;
 }
 
 .footer1, .footer2
@@ -129,7 +128,7 @@ body
 }
 .abc
 {
-	width: 96.7%;
+
 	background-color: white;
 	margin: 0 auto;
 }

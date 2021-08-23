@@ -1,0 +1,124 @@
+body
+{
+	font-family: 'Roboto', sans-serif;
+}
+
+.navbar
+{
+	padding-bottom: 10px;
+}
+.navbar a
+{
+	font-size: 19px;
+	min-width: 80px;
+	padding: 10px;
+	margin-right: 20px;
+
+
+
+}
+.navbar button
+{
+	border: none;
+	outline: 0;
+}
+#mainmenu a, img
+{
+	margin-bottom: 1px;
+
+	text-decoration: none;
+}
+#mainmenu a:hover
+{
+
+}
+
+.dropdown-menu
+{
+	border-radius: 0%;
+	margin-left: -10px;
+	padding: 0px;
+	margin-top: 13px;
+	border: 0;
+}
+.dropdown-item
+{
+	color: gray;
+}
+.dropdown-item:hover
+{
+	
+	color: black;
+
+}
+
+
+
+.dropdown-menu a
+{
+	padding-top: 15px;
+	padding-bottom: 15px;
+
+}
+.dania img
+{
+	border-radius: 1%;
+	align: center;
+}
+.dania img
+{
+	margin-bottom: -1px;
+	cursor: pointer;
+}
+.dania figcaption
+{
+	cursor: pointer;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align: center;
+}
+.container-fluid
+{
+	margin: 0 auto;
+	text-align: center;
+}
+.dania a
+{
+	text-decoration: none;
+	color: gray;
+	font-size: 23px;
+}
+.dania a:hover
+{
+	color: black;
+}
+.footer 
+{
+
+	font-family: 'Urbanist', sans-serif;
+	text-align: center;
+	width: 102%;
+	min-height: 80px;
+	background-color: lightgray;
+}
+
+.footer1, .footer2
+{	
+
+
+}
+.footer1, .footer2
+{
+	margin-top: 40px;
+
+
+}
+.footer img
+{
+	border-radius: 20%;	
+}
+.h6
+{
+	font-size: 5px;
+}
+

@@ -1,6 +1,10 @@
 body
 {
+/*	background-image: url("img/tlo.png");*/
+	background-color: black;
 	font-family: 'Roboto', sans-serif;
+	width: 96%;
+	margin: 0 auto;
 }
 
 .navbar
@@ -13,9 +17,10 @@ body
 	min-width: 80px;
 	padding: 10px;
 	margin-right: 20px;
-
-
-
+}
+.bg-navbar
+{
+	background-color: #f2f2f2;
 }
 .navbar button
 {
@@ -97,14 +102,14 @@ body
 
 	font-family: 'Urbanist', sans-serif;
 	text-align: center;
-	width: 102%;
+	width: 100%;
 	min-height: 80px;
 	background-color: lightgray;
 }
 
 .footer1, .footer2
 {	
-
+	
 
 }
 .footer1, .footer2
@@ -117,8 +122,13 @@ body
 {
 	border-radius: 20%;	
 }
-.h6
-{
-	font-size: 5px;
-}
 
+}
+.footer2
+{
+	padding-bottom: 15px;
+}
+.abc
+{
+	background-color: white;
+}

@@ -1,6 +1,5 @@
 body
 {
-/*	background-image: url("img/tlo.png");*/
 	background-color: black;
 	font-family: 'Roboto', sans-serif;
 
@@ -132,4 +131,5 @@ body
 {
 	width: 97%;
 	background-color: white;
+	margin: 0 auto;
 }
